@@ -10,5 +10,5 @@
 - 😄 Pronouns:**HE**
 
 ## Connect with me:
-<a href="https://twitter.com/VedPrak75089638" alt="Twitter"></a>
+<p>&lt;a href="https://twitter.com/VedPrak75089638"&gt;&lt;img src="https://en.wikipedia.org/wiki/Twitter#/media/File:Twitter_Logo_as_of_2021.svg"<br />alt="Twitter"&gt;&lt;/a&gt;</p>
 
