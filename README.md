@@ -15,5 +15,5 @@
 </a>
 
 <a href="www.linkedin.com/in/vedprakashsing" target="_blank">
-<img border="0" alt="Twitter" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" width="40"height="40">
+<img border="0" alt="Twitter" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="40"height="40">
 </a>
