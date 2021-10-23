@@ -10,6 +10,6 @@
 - 😄 Pronouns:**HE**
 
 ## Connect with me:
-<a href="https://twitter.com/VedPrak75089638">
-<img border="0" alt="Twitter" src="https://en.wikipedia.org/wiki/Twitter#/media/File:Twitter_Logo_as_of_2021.svg" width="40"height="40">
+<a href="https://twitter.com/VedPrak75089638" target="_blank">
+<img border="0" alt="Twitter" src="https://upload.wikimedia.org/wikipedia/en/6/60/Twitter_Logo_as_of_2021.svg" width="40"height="40">
 </a>
