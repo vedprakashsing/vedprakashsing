@@ -13,7 +13,7 @@
 <a href="https://twitter.com/VedPrak75089638" target="_blank">
 <img border="0" alt="Twitter" src="https://upload.wikimedia.org/wikipedia/en/6/60/Twitter_Logo_as_of_2021.svg" width="40"height="40">
 </a>
-
+<br>
 <a href="https://www.linkedin.com/in/vedprakashsing/" target="_blank">
-<img border="0" alt="Twitter" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="40"height="40">
+<img border="0" alt="LinkedIn" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="40"height="40">
 </a>
