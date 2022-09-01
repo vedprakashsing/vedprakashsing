@@ -11,7 +11,7 @@
 
 ## Connect with me:
 <a href="https://twitter.com/VedPrak75089638" target="_blank">
-<img border="0" alt="Twitter" src="https://en.wikipedia.org/wiki/Twitter#/media/File:Twitter-logo.svg">
+<img border="0" alt="Twitter" src="https://in.pinterest.com/pin/731412795734730188/">
 </a>
  &nbsp   
 <a href="https://www.linkedin.com/in/vedprakashsing/" target="_blank">
