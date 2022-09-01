@@ -1,11 +1,11 @@
 ### Hi 👋, I am Ved Prakash Singh
 
 
-- 🔭 I’m currently working on **Android Development(JAVA)**
+- 🔭 I’m currently working on **Android Development(JAVA)(Kotlin)**
 - 🌱 I’m currently learning **Machine Learning**
-- 👯 I’m looking to collaborate on **Android Development(JAVA)**
+- 👯 I’m looking to collaborate on **Android Development(JAVA)(Kotlin)**
 - 🤔 I’m looking for help with in **Mathematics**
-- 💬 Ask me about **Android Development(JAVA)**
+- 💬 Ask me about **Android Development(JAVA)(Kotlin)**
 - 📫 How to reach me:ved94524060@gmail.com
 - 😄 Pronouns:**HE**
 
